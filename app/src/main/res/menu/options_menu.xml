@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/yangmingshan"
+        android:title="@string/yangmingshan">
+        <menu>
+            <item
+                android:id="@+id/guide"
+                android:icon="@drawable/guide"
+                android:title="@string/guide" />
+            <item
+                android:id="@+id/traffic"
+                android:icon="@drawable/traffic"
+                android:title="@string/traffic" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/yushan"
+        android:title="@string/yushan"
+        android:icon="@drawable/yushan"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/taroko"
+        android:title="@string/taroko" />
+    <item
+        android:id="@+id/myloc"
+        android:title="@string/myloc" />
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit" />
+
+</menu>

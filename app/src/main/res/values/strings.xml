@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MenusDemo</string>
+    <string name="yangmingshan">Yangmingshan National Park</string>
+    <string name="yushan">Yushan National Park</string>
+    <string name="taroko">Taroko National Park</string>
+    <string name="myloc">My Location</string>
+    <string name="exit">Exit</string>
+    <string name="text_tvTitle">Press menu button (on the upper right corner)</string>
+    <string name="guide">Guide</string>
+    <string name="traffic">Traffic</string>
+    <string name="clear">Clear</string>
+    <string name="background">Change Background Color</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="cyan">Cyan</string>
+    <string name="text_btDelete">Delete</string>
+    <string name="deleteItem">Delete Selected Item</string>
+    <string name="deleteAll">Delete All the Items</string>
+
+</resources>
